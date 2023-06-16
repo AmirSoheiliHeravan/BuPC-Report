@@ -1,0 +1,19 @@
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\bin\Debug\BuPC Report.exe.config
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\bin\Debug\BuPC Report.exe
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\bin\Debug\BuPC Report.pdb
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC Report.csproj.AssemblyReference.cache
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC Report.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC_Report.Properties.Resources.resources
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC Report.csproj.GenerateResource.cache
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC Report.csproj.CoreCompileInputs.cache
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC Report.exe
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC Report.pdb
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC_Report.frmlogin.resources
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC_Report.frmsupport.resources
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC_Report.frmmain.resources
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC_Report.FrmNewRepRotin.resources
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC_Report.FrmNewNightToDoList.resources
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC_Report.FrmNewRepWorkOrder.resources
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC_Report.FrmNewTomorrowToDoList.resources
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC_Report.FrmSplashScreen.resources
+C:\Users\Amir Soheili\source\repos\BuPC Report\BuPC Report\obj\Debug\BuPC_Report.FrmNewRepPermit.resources

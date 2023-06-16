@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuPC Report", "BuPC Report\BuPC Report.csproj", "{69E35725-8FF0-4089-B621-5BB6F78D176C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E35725-8FF0-4089-B621-5BB6F78D176C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E35725-8FF0-4089-B621-5BB6F78D176C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E35725-8FF0-4089-B621-5BB6F78D176C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E35725-8FF0-4089-B621-5BB6F78D176C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AC67D30-39C8-4E7E-BBFD-4C7CFB2A56DA}
+	EndGlobalSection
+EndGlobal
